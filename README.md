@@ -73,7 +73,7 @@ Additional resources:
 * [Making Things Move](http://www.makingthingsmove.com/), by Dustyn Roberts
 * [Interaction of Color](https://cuny-cc.primo.exlibrisgroup.com/permalink/01CUNY_CC/a8a5t6/alma990009998350106138), by Josef Albers
 * [The Art of Interactive Design](https://cuny-cc.primo.exlibrisgroup.com/permalink/01CUNY_CC/cqbe6c/alma991027550328006121), by Chris Crawford
-* 
+* [Art and Electronic Media](https://artelectronicmedia.com/en/), by Edward A Shanken ([CUNY Library link](https://cuny-network.primo.exlibrisgroup.com/discovery/search?query=any,contains,148703571&sortby=date_d&vid=01CUNY_NETWORK:CUNY_NETWORK&facet=frbrgroupid,include,9067231971857241387&offset=0))
 * Dan Shiffman’s [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) Youtube Channel
 * Processing [tutorials](https://processing.org/tutorials/), [examples](https://processing.org/examples/), and [reference](https://processing.org/reference/)
 * P5.js [tutorials](https://p5js.org/learn/), [examples](https://p5js.org/examples/), and [reference](https://p5js.org/reference/)
