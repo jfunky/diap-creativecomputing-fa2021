@@ -3,6 +3,8 @@ Class syllabus, schedule, class notes, & assignments for CCNY/CUNY Creative Comp
 
 This will be our class homepage, so it may be a good idea to bookmark it.
 
+[Class Schedule](https://github.com/jfunky/diap-creativecomputing-fa2021/blob/main/Schedule.md)
+
 # Syllabus
 ###### City College of New York (CCNY)
 ###### Digital Integrated Art Practice
@@ -99,3 +101,6 @@ If you are a student with a disability requesting accommodations, please contact
 
 #### Health & Wellness
 CCNY also provides [student health](https://www.ccny.cuny.edu/shs) and [counseling services](https://www.ccny.cuny.edu/counseling).
+
+#### Schedule
+[Class Schedule](https://github.com/jfunky/diap-creativecomputing-fa2021/blob/main/Schedule.md)
