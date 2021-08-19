@@ -8,7 +8,7 @@
     - Introduction to P5.js
     - Github
 * Assignment: 
-    - Draw a face. This can be a self-portrait, a portrait of a friend, a famous person, a pet, a cartoon, etc.
+    - Draw a face with p5.js. This can be a self-portrait, a portrait of a friend, a famous person, a pet, a cartoon, etc.
     - Add a link to the homework wiki.
 * Resources: 
     - P5.js reference: 
@@ -101,7 +101,7 @@
         -  [Soldering](https://itp.nyu.edu/physcomp/Labs/Soldering/)
     - ITP Physical Computing Video [LED Current](https://vimeo.com/showcase/2801639/video/78674965)
     - [Tutorials & Circuit diagrams for Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples) including [Blink](https://www.arduino.cc/en/Tutorial/Blink)
-    - [Digikey refeence for resistor color codes](Digikey reference for resistor color codes)
+    - [Digikey refeence for resistor color codes](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
     - Jody Culkin's Arduino Comic & related links
     - Chris Crawford: The Art of Interactive Design Ch 1 & 2
     - Practical Electronics for Inventors Ch 2 (2.1-2.16)
