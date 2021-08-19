@@ -12,13 +12,13 @@
     - Add a link to the homework wiki.
 * Resources: 
     - P5.js reference: 
-        -[Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
-        -[Curves](https://p5js.org/learn/curves.html)
+        - [Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
+        - [Curves](https://p5js.org/learn/curves.html)
     - Getting Started with P5.js, ch.1-3
     - The Coding Train tutorials:
-          - [p5.js web editor](https://www.youtube.com/watch?v=MXs1cOlidWs&feature=youtu.be)
-          - [Basics of drawing](https://thecodingtrain.com/Tutorials/1-p5js-basics/1.3-basics-of-drawing.html)
-          - [Custom shapes](https://thecodingtrain.com/Tutorials/9-additional-topics/9.22-custom-shapes.html)
+        - [p5.js web editor](https://www.youtube.com/watch?v=MXs1cOlidWs&feature=youtu.be)
+        - [Basics of drawing](https://thecodingtrain.com/Tutorials/1-p5js-basics/1.3-basics-of-drawing.html)
+        - [Custom shapes](https://thecodingtrain.com/Tutorials/9-additional-topics/9.22-custom-shapes.html)
     - See also:
       - Learning Processing, ch.1-2
 
