@@ -9,7 +9,8 @@
     - Github
 * Assignment: 
     - Draw a face with p5.js. This can be a self-portrait, a portrait of a friend, a famous person, a pet, a cartoon, etc.
-    - Add a link to the homework wiki.
+    - Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
+    - Fill out the class survey (to be emailed)
 * Resources: 
     - P5.js reference: 
         - [Coordinate System & Shapes](https://p5js.org/learn/coordinate-system-and-shapes.html)
@@ -21,6 +22,7 @@
         - [Custom shapes](https://thecodingtrain.com/Tutorials/9-additional-topics/9.22-custom-shapes.html)
     - See also:
       - Learning Processing, ch.1-2
+      - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 #### Week 2: September 1
 * In Class: 
@@ -33,7 +35,7 @@
 * Assignment: 
     - Create a new sketch or build on your sketch from last week, where there is a change in the color, animation, or design based on mouse or keyboard input. 
     - Incorporate at least one random element that changes over time, with user input, or when the sketch loads.
-    - Add a link to the homework wiki.
+    - Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - P5.js reference: 
         - [Interactivity](https://p5js.org/learn/interactivity.html)
@@ -61,7 +63,7 @@
 * Assignment: 
     - Create a motif, geometric design, or color gradient and use repetition to create a pattern or wallpaper. 
     - Add a mouse or keyboard interface to change some element of the design.
-    - Add link to homework wiki.
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - p5.js reference: [Program Flow](https://p5js.org/learn/program-flow.html)
     - Getting Started With p5.js, ch.4-5
@@ -77,7 +79,7 @@
     - Functions
     - Objects
     - Media
-* Assignment: Choose one & add a link to the homework wiki:
+* Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Develop a function and use a loop to render it multiple times.
     - (2) Load a media element and incorporate mouse or keyboard interactivity.
 * Resources: 
