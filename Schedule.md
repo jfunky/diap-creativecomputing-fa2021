@@ -7,6 +7,7 @@
     - Questions
     - Introduction to P5.js
     - Github
+    - [Class 1 sketch](https://editor.p5js.org/jfunky/sketches/n_c7p0_k2)
 * Assignment: 
     - Draw a face with p5.js. This can be a self-portrait, a portrait of a friend, a famous person, a pet, a cartoon, etc.
     - Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
