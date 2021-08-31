@@ -26,6 +26,8 @@ We will apply and discuss computation in relation to a variety of media, such as
 #### This is a hybrid class
 The first and second meetings will be online using Zoom. Students will be contacted through email with the meeting information prior to the first day of class. Class sessions with an in-person option will be scheduled if it is deemed safe to do so. Online options will be provided for all class sessions. Studio access will be provided to all enrolled students.
 
+Mask Policy: Masks will be required inside the Art Department and campus-at-large, regardless of vaccination status. Vaccinations will be required for those entering the campus. 
+
 #### Learning Objectives
 * Develop programming skills for creative coding in Javascript (mainly p5.js) and Arduino. 
 * Learn best practices for designing software within an event-driven, object-oriented and functional framework.
@@ -92,7 +94,7 @@ Any reading required for a particular week will be clearly stated in the homewor
 * Weekly homework assignments: 65%
 * Participation: 25%
 * Multi-week culminating project: 10%
-* The last 3 weeks of the course will be focused on applying concepts from the course to create a self-defined project. You can take this opportunity to develop a new idea or revisit an idea from one of the weekly homework assignments. The completed project should demonstrate the creative use of technical skills you developed during the semester.
+    - The last 3 weeks of the course will be focused on applying concepts from the course to create a self-defined project. You can take this opportunity to develop a new idea or revisit an idea from one of the weekly homework assignments. The completed project should demonstrate the creative use of technical skills you developed during the semester.
 
 There is no attendance policy: if you miss synchronous class sessions, follow the schedule and assignments for the week & submit your work and feedback to classmates via other channels.
 
@@ -101,6 +103,16 @@ If you are a student with a disability requesting accommodations, please contact
 
 #### Health & Wellness
 CCNY also provides [student health](https://www.ccny.cuny.edu/shs) and [counseling services](https://www.ccny.cuny.edu/counseling).
+
+#### CUNY policy regarding plagiarism:
+Required Statement on Academic IntegrityThe CUNY Policy on plagiarism says the following: Plagiarism is the act of presenting another person’s ideas, research or writings as your own. The following are some examples of plagiarism, but by no means is it an exhaustive list:
+1. Copying another person’s actual words without the use of quotation marks and footnotes attributing the words to their source.
+2. Presenting another person’s ideas or theories in your own words without acknowledging the source.
+3. Using information that is not common knowledge without acknowledging the source.
+4. Failing to acknowledge collaborators on homework and laboratory assignments.
+5. Internet plagiarism includes submitting downloaded term papers or parts of term papers, paraphrasing or copying information from the internet without citing the source, and “cutting and pasting” from various sources without proper attribution.
+
+The City College Faculty Senate has approved a procedure for addressing violations of academic integrity.
 
 #### Schedule
 [Class Schedule](https://github.com/jfunky/diap-creativecomputing-fa2021/blob/main/Schedule.md)
