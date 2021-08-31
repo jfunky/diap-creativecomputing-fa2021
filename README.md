@@ -98,7 +98,7 @@ Any reading required for a particular week will be clearly stated in the homewor
 
 There is no attendance policy: if you miss synchronous class sessions, follow the schedule and assignments for the week & submit your work and feedback to classmates via other channels.
 
-#### Academic Accomodations
+#### Academic Accommodations
 If you are a student with a disability requesting accommodations, please contact [The AccessAbility Center/Student Disability Services (AAC/SDS)](https://www.ccny.cuny.edu/accessability). For more information, included here are links to [examples of academic adjustments and auxiliary aids](https://www.ccny.cuny.edu/accessability/academic-adjustments-auxiliary-aids), information about [registering with AAC/SDS](https://www.ccny.cuny.edu/accessability/register), and [forms](https://www.ccny.cuny.edu/accessability/forms). 
 
 #### Health & Wellness
