@@ -37,6 +37,8 @@
     - Create a new sketch or build on your sketch from last week, where there is a change in the color, animation, or design based on mouse or keyboard input. 
     - Incorporate at least one random element that changes over time, with user input, or when the sketch loads.
     - Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
+    - Read: [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
+    - Listen: [Artists & Hackers Episode 1: Critical Code]
 * Resources: 
     - P5.js reference: 
         - [Interactivity](https://p5js.org/learn/interactivity.html)
@@ -47,7 +49,6 @@
         - [Part 1](https://www.youtube.com/watch?v=RnS0YNuLfQQ)
         - [Part 2](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
         - [Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc)
-    - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
     - Learning Processing, ch.3-4
     - [Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
