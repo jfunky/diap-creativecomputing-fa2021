@@ -38,7 +38,7 @@
     - Incorporate at least one random element that changes over time, with user input, or when the sketch loads.
     - Add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
     - Read: [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) & [Color models and color space](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html) by Rune Madsen
-    - Listen: [Artists & Hackers Episode 1: Critical Code]
+    - Listen: [Artists & Hackers Episode 1: Critical Code](https://www.artistsandhackers.org/Critical-Code)
 * Resources: 
     - P5.js reference: 
         - [Interactivity](https://p5js.org/learn/interactivity.html)
