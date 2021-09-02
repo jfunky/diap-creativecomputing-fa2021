@@ -33,6 +33,7 @@
     - Mouse & Keyboard Interaction
     - Randomness
     - Color
+    - [Class examples](https://editor.p5js.org/jfunky/collections/5xYUn89U_)
 * Assignment: 
     - Create a new sketch or build on your sketch from last week, where there is a change in the color, animation, or design based on mouse or keyboard input. 
     - Incorporate at least one random element that changes over time, with user input, or when the sketch loads.
