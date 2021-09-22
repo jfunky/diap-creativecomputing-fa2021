@@ -76,21 +76,45 @@
         - [Conditionals Part 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
         - [Loops Part 1](https://www.youtube.com/watch?v=cnRD9o6odjk)
         - [Loops Part 2](https://www.youtube.com/watch?v=1c1_TMdf8b8&t=158s)
-      
+     - See also: Artist & Computer
+        
 #### Week 4: September 29
 * In Class: 
     - Functions
-    - Objects
-    - Media
+    - Uploading Media
+    - Mic & Camera inputs
 * Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Develop a function and use a loop to render it multiple times.
-    - (2) Load a media element and incorporate mouse or keyboard interactivity.
+    - (2) Load a media element and incorporate some kind of interactivity (mouse, keyboard, camera, microphone).
 * Resources: 
     - Learning Processing, ch.6-8, 17
-    - The Coding Train [Loops](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ) and [Functions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials
+    - The Coding Train 
+        - [Functions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials
+        - [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
+        - [Loading and Playing Sound](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+        - [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
+        - [Live Video & createCapture](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
     - See also: Getting Started With p5.js, ch.9, 11
 
 #### Week 5: October 6
+* In Class: 
+    - Objects & Classes
+    - Useful math: probability, rotation, oscillation, recursion
+* Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
+    - (1) Refactor a previous assignment in an object-oriented way.
+    - (2) Change/Update/Add parameters and methods to the example we did in class.
+* Resources: 
+    - Getting Started with p5.js, ch.6,8 (note that chapter 10 is outdated)
+    - The Coding Train 
+        - [Object Oriented Programming](https://www.youtube.com/watch?v=xG2Vbnv0wvg&feature=youtu.be)
+        - [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w)
+        - [Constructors](https://www.youtube.com/watch?v=rHiSsgFRgx4)
+        - [Object Interaction](https://thecodingtrain.com/Tutorials/7-object-interaction/)
+        - Transformations [Part 1](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [Part 2](https://www.youtube.com/watch?v=pkHZTWOoTLM)
+        - [Recursion](https://www.youtube.com/watch?v=jPsZwrV9ld0)
+    - Learning Processing, ch.9, 13-14
+
+#### Week 6: October 13
 * In Class: 
     - Introduction to Arduino
     - Introduction to electronics & circuits
@@ -106,12 +130,12 @@
         -  [Soldering](https://itp.nyu.edu/physcomp/Labs/Soldering/)
     - ITP Physical Computing Video [LED Current](https://vimeo.com/showcase/2801639/video/78674965)
     - [Tutorials & Circuit diagrams for Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples) including [Blink](https://www.arduino.cc/en/Tutorial/Blink)
-    - [Digikey refeence for resistor color codes](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
+    - [Digikey reference for resistor color codes](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
     - Jody Culkin's Arduino Comic & related links
     - Chris Crawford: The Art of Interactive Design Ch 1 & 2
     - Practical Electronics for Inventors Ch 2 (2.1-2.16)
 
-#### Week 6: October 13
+#### Week 7: October 20
 * In Class: 
     - Components
     - Schematic Diagrams
@@ -126,7 +150,7 @@
     - [Arduino Variables Reference](https://www.arduino.cc/en/Reference/VariableDeclaration)
     - [ITP Tutorial: Programming terms and programming environments](https://itp.nyu.edu/physcomp/lessons/programming/programming-terms-and-programming-environments/)
 
-#### Week 7: October 20
+#### Week 8: October 27
 * In Class: 
     - Analog Input and Sensing 
     - PWM Analog Output
@@ -140,7 +164,7 @@
     - [Arduino Reference Page](https://www.arduino.cc/reference/en/)
     - [Arduino Variables](https://www.arduino.cc/en/Reference/VariableDeclaration)
 
-#### Week 8: October 27
+#### Week 9: November 3
 * In Class: Digital/Analog input to P5.js
 * Assignment:
     - Connect a digital or analog input to a p5.js sketch, to change something on the screen.
@@ -148,32 +172,73 @@
     - [Serial port library](https://github.com/p5-serial/p5.serialport)
     - [ITP Lab: Serial Input to P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
 
-#### Week 9: November 3
-* In Class: Special Topic
-* Assignment: TBD
-
 #### Week 10: November 10
-* In Class: Special Topic
-* Assignment: TBD
+* In Class: High-powered loads
+    - Transistors
+    - Motors
+* Assignment: Choose one exercise:
+     - Use a p5 sketch to control some actuator.
+     - Use an analog or digital sensor to make a motor move.
+* Resources: 
+    - [ITP Lab: Servo motor control](https://itp.nyu.edu/physcomp/Labs/Servo)
+    - [ITP Tutorial: High Current loads w/ transistor](https://itp.nyu.edu/physcomp/Tutorials/HighCurrentLoads)
+    - [ITP Videos: Transistors and Motors](https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/)
+    - [ITP Lab: DC Motor w/ H-bridge](https://itp.nyu.edu/physcomp/Labs/DCMotorControl)
+    - [ITP Lab: Stepper Motor w/ H-Bridge](https://itp.nyu.edu/physcomp/Labs/StepperMotorControl)
+    - [EZ Driver for Steppers](https://jfunky.github.io/pcompdiap2019/labs.html)
+    - [ITP Lab: Serial Output from P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/)
+    - [ITP Lab: Two-Way (Duplex) Serial Communication Using An Arduino and P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/)
 
 #### Week 11: November 17
-* In Class: Workshop
+* In Class: 
+    - HTML/CSS/DOM
+    - Javascript libraries for creative coding
+    - Workshop
 * Assignment: Brainstorming/Develop multi-week self-defined project
 * Resources: 
+    - [The Coding Train HTML/CSS/DOM tutorial](https://thecodingtrain.com/Tutorials/8-html-css-dom/)
+    - [Beyond the Canvas github tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+    - [Global & instance mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode)
 
 #### Week 12: November 24
-* In Class: Workshop
+* In Class: 
+    - Pixels
+    - Workshop
 * Assignment: Project
 * Resources: 
+    - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+    - See also: Learning Processing ch. 15 (covers image processing)
 
 #### Week 13: December 1
-* In Class: Workshop
+* In Class: 
+    - Intro to WEBGL & 3D tools
+    - Workshop
 * Assignment: Project
 * Resources: 
+    -[Getting Started with WebGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
+    - The Coding Train [Introduction to WEBGL in p5.js](https://thecodingtrain.com/Tutorials/18-webgl/index.html)
+    - Other web tools:
+        - [Three.js](https://threejs.org/) Javascript library for 3D
+        - [aframe](https://aframe.io/) Javascript framework for 3D/AR/VR
+    - Other 3D tools:
+        - 3D modeling:
+            -[TinkerCAD](https://www.tinkercad.com/)
+            -[SketchUP](https://www.sketchup.com/)
+        - Full 3D creation suites (modeling, rigging, animation, simulation, rendering, etc):
+            -[Maya](https://www.autodesk.com/products/maya/overview)
+            -[Blendr](https://www.blender.org/) Open source 3D creation suite
+            -[Cinema 4D](https://www.maxon.net/en/cinema-4d) 
+        - [Unity](https://unity.com/) game engine that supports 2D, 3D, AR
+        - [Mixamo](https://www.mixamo.com/#/) Rigging/Animation for 3D characters
+        - [Vuforia](https://www.ptc.com/en/products/vuforia) Augmented reality SDK
 
 ####  Week 14: December 8
-* In Class: Workshop
+* In Class: Machine learning
 * Assignment: Project
+* Resources:
+    - The Coding Train 
+        - [A Beginner’s Guide to Machine Learning with ml5.js]()
+        - [AI Rainbows and Runway and P5.js]()
 
 #### Week 15: December 15
 * In Class: Presentations & feedback
