@@ -215,7 +215,7 @@
     - Workshop
 * Assignment: Project
 * Resources: 
-    -[Getting Started with WebGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
+    - [Getting Started with WebGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
     - The Coding Train [Introduction to WEBGL in p5.js](https://thecodingtrain.com/Tutorials/18-webgl/index.html)
     - Other web tools:
         - [Three.js](https://threejs.org/) Javascript library for 3D
