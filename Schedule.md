@@ -76,7 +76,7 @@
         - [Conditionals Part 3](https://www.youtube.com/watch?v=r2S7j54I68c&t=730s)
         - [Loops Part 1](https://www.youtube.com/watch?v=cnRD9o6odjk)
         - [Loops Part 2](https://www.youtube.com/watch?v=1c1_TMdf8b8&t=158s)
-     - See also: Artist & Computer
+     - See also: [Artist & Computer](https://www.atariarchives.org/artist/)
         
 #### Week 4: September 29
 * In Class: 
