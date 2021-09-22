@@ -221,13 +221,8 @@
         - [Three.js](https://threejs.org/) Javascript library for 3D
         - [aframe](https://aframe.io/) Javascript framework for 3D/AR/VR
     - Other 3D tools:
-        - 3D modeling:
-            -[TinkerCAD](https://www.tinkercad.com/)
-            -[SketchUP](https://www.sketchup.com/)
-        - Full 3D creation suites (modeling, rigging, animation, simulation, rendering, etc):
-            -[Maya](https://www.autodesk.com/products/maya/overview)
-            -[Blendr](https://www.blender.org/) Open source 3D creation suite
-            -[Cinema 4D](https://www.maxon.net/en/cinema-4d) 
+        - 3D modeling: [TinkerCAD](https://www.tinkercad.com/), [SketchUP](https://www.sketchup.com/)
+        - Full 3D creation suites (modeling, rigging, animation, simulation, rendering, etc): [Blendr](https://www.blender.org/) Open source 3D creation suite, also [Maya](https://www.autodesk.com/products/maya/overview) & [Cinema 4D](https://www.maxon.net/en/cinema-4d) 
         - [Unity](https://unity.com/) game engine that supports 2D, 3D, AR
         - [Mixamo](https://www.mixamo.com/#/) Rigging/Animation for 3D characters
         - [Vuforia](https://www.ptc.com/en/products/vuforia) Augmented reality SDK
