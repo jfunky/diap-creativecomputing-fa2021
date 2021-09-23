@@ -63,6 +63,7 @@
     - Boolean variables
     - Logical operators
     - Loops
+    - [In-class examples](https://editor.p5js.org/jfunky/collections/RyJiGBJla)
 * Assignment: 
     - Create a motif, geometric design, or color gradient and use repetition to create a pattern or wallpaper. 
     - Add a mouse or keyboard interface to change some element of the design.
