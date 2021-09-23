@@ -88,14 +88,14 @@
     - (1) Develop a function and use a loop to render it multiple times.
     - (2) Load a media element and incorporate some kind of interactivity (mouse, keyboard, camera, microphone).
 * Resources: 
-    - Learning Processing, ch.6-8, 17
+    - Getting Started With p5.js, ch.9, 11
     - The Coding Train 
         - [Functions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials
         - [Uploading Media Files](https://www.youtube.com/watch?v=rO6M5hj0V-o)
         - [Loading and Playing Sound](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
         - [Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
         - [Live Video & createCapture](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
-    - See also: Getting Started With p5.js, ch.9, 11
+    - See also: Learning Processing, ch.6-8, 17 
 
 #### Week 5: October 6
 * In Class: 
@@ -113,7 +113,7 @@
         - [Object Interaction](https://thecodingtrain.com/Tutorials/7-object-interaction/)
         - Transformations [Part 1](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [Part 2](https://www.youtube.com/watch?v=pkHZTWOoTLM)
         - [Recursion](https://www.youtube.com/watch?v=jPsZwrV9ld0)
-    - Learning Processing, ch.9, 13-14
+    - See also: Learning Processing, ch.9, 13-14
 
 #### Week 6: October 13
 * In Class: 
