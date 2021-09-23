@@ -87,7 +87,7 @@ Additional resources:
 * [Arduino Playground](https://playground.arduino.cc/uploads/Main/arduino_comic_v0004.pdf)
 * [Physical Computing Reference](https://github.com/jfunky/physical-computing-reference/blob/master/README.md)
 
-Any reading required for a particular week will be clearly stated in the homework section of the [weekly schedule](https://github.com/jfunky/diap-creativecomputing-fa2020/blob/master/Schedule.md).
+Any reading required for a particular week will be clearly stated in the homework section of the [weekly schedule](https://github.com/jfunky/diap-creativecomputing-fa2021/blob/main/Schedule.md).
 
 ### Grading & Attendance Policy
 ##### Grade Breakdown:
