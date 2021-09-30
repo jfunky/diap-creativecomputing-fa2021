@@ -84,6 +84,7 @@
     - Functions
     - Uploading Media
     - Mic & Camera inputs
+    - [In-class examples](https://editor.p5js.org/jfunky/collections/TC0idZF8cp)
 * Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Develop a function and use a loop to render it multiple times.
     - (2) Load a media element and incorporate some kind of interactivity (mouse, keyboard, camera, microphone).
