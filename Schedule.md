@@ -102,6 +102,7 @@
 * In Class: 
     - Objects & Classes
     - Useful math: probability, rotation, oscillation, recursion
+    - [In-class examples](https://editor.p5js.org/jfunky/collections/Ih-oCHoJx)
 * Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Refactor a previous assignment in an object-oriented way.
     - (2) Change/Update/Add parameters and methods to the example we did in class.
