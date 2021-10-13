@@ -112,7 +112,8 @@
         - [Object Oriented Programming](https://www.youtube.com/watch?v=xG2Vbnv0wvg&feature=youtu.be)
         - [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w)
         - [Constructors](https://www.youtube.com/watch?v=rHiSsgFRgx4)
-        - [Object Interaction](https://thecodingtrain.com/Tutorials/7-object-interaction/)
+        - [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
+        - [Object Interaction](https://www.youtube.com/watch?v=TaN5At5RWH8)
         - Transformations [Part 1](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [Part 2](https://www.youtube.com/watch?v=pkHZTWOoTLM)
         - [Recursion](https://www.youtube.com/watch?v=jPsZwrV9ld0)
     - See also: Learning Processing, ch.9, 13-14
@@ -134,7 +135,7 @@
     - ITP Physical Computing Video [LED Current](https://vimeo.com/showcase/2801639/video/78674965)
     - [Tutorials & Circuit diagrams for Arduino Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples) including [Blink](https://www.arduino.cc/en/Tutorial/Blink)
     - [Digikey reference for resistor color codes](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
-    - Jody Culkin's Arduino Comic & related links
+    - Jody Culkin's [Arduino Comic & related links](https://www.arduino.cc/en/Tutorial/ArduinoComic)
     - Chris Crawford: The Art of Interactive Design Ch 1 & 2
     - Practical Electronics for Inventors Ch 2 (2.1-2.16)
 
@@ -184,6 +185,7 @@
      - Use an analog or digital sensor to make a motor move.
 * Resources: 
     - [ITP Lab: Servo motor control](https://itp.nyu.edu/physcomp/Labs/Servo)
+    - [ITP Tutorial: Understanding DC Power Supplies](https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/)
     - [ITP Tutorial: High Current loads w/ transistor](https://itp.nyu.edu/physcomp/Tutorials/HighCurrentLoads)
     - [ITP Videos: Transistors and Motors](https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/)
     - [ITP Lab: DC Motor w/ H-bridge](https://itp.nyu.edu/physcomp/Labs/DCMotorControl)
