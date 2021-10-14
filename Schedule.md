@@ -122,6 +122,7 @@
 * In Class: 
     - Introduction to Arduino
     - Introduction to electronics & circuits
+    - [Class notes/presentation](https://docs.google.com/presentation/d/1dO_d2j9MWUFkNYVjlctVsBnA7Q1FOKEYyaW0b8X-_Z8/edit?usp=sharing)
 * Assignment:
     - Use the electronic principles we learned in class to create your own button.
 * Resources: 
