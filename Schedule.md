@@ -199,6 +199,7 @@
 * In Class: 
     - HTML/CSS/DOM
     - Javascript libraries for creative coding
+    - Physical computing software overview
     - Workshop
 * Assignment: Brainstorming/Develop multi-week self-defined project
 * Resources: 
@@ -207,13 +208,7 @@
     - [Global & instance mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode)
 
 #### Week 12: November 24
-* In Class: 
-    - Pixels
-    - Workshop
-* Assignment: Project
-* Resources: 
-    - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
-    - See also: Learning Processing ch. 15 (covers image processing)
+* Individual virtual meetings
 
 #### Week 13: December 1
 * In Class: 
@@ -234,12 +229,17 @@
         - [Vuforia](https://www.ptc.com/en/products/vuforia) Augmented reality SDK
 
 ####  Week 14: December 8
-* In Class: Machine learning
+* In Class: 
+    - Machine learning
+    - Pixels
+    - Workshop
+* Assignment: Project
 * Assignment: Project
 * Resources:
-    - The Coding Train 
-        - [A Beginner’s Guide to Machine Learning with ml5.js]()
-        - [AI Rainbows and Runway and P5.js]()
+    - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+    - See also: Learning Processing ch. 15 (covers image processing)
+    - [A Beginner’s Guide to Machine Learning with ml5.js](https://ml5js.org/community/2019-12-10-youtube-learning-playlist/)
+    - [AI Rainbows and Runway and P5.js](https://www.youtube.com/watch?v=vEetoBuHj8g)
 
 #### Week 15: December 15
 * In Class: Presentations & feedback
