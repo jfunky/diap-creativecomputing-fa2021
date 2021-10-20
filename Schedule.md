@@ -148,12 +148,16 @@
 * Assignment:     
     - Connect your button to a circuit and write Arduino code that allows you to use your new button to control an LED.
 * Resources: 
-    - [ITP Lab: Digital Input Output](https://itp.nyu.edu/physcomp/lessons/microcontrollers/digital-input-output/)
-    - [ITP Lab: Microcontrollers](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
-    - [VIDEO: Digital Input](https://vimeo.com/86548673)
-    - [VIDEO: Digital Output](https://vimeo.com/86534049)
+    - ITP Tutorials:
+        - [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
+        - [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
+        - [Programming terms and programming environments](https://itp.nyu.edu/physcomp/lessons/programming/programming-terms-and-programming-environments/)
+        - [Interpretting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
+    - ITP Videos:
+        - [VIDEO: Digital Input](https://vimeo.com/86548673)
+        - [VIDEO: Digital Output](https://vimeo.com/86534049)
+        - [VIDEO: Schematics](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
     - [Arduino Variables Reference](https://www.arduino.cc/en/Reference/VariableDeclaration)
-    - [ITP Tutorial: Programming terms and programming environments](https://itp.nyu.edu/physcomp/lessons/programming/programming-terms-and-programming-environments/)
 
 #### Week 8: October 27
 * In Class: 
