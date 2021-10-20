@@ -145,6 +145,7 @@
     - Components
     - Schematic Diagrams
     - Digital I/O
+    - [Class Notes](https://docs.google.com/presentation/d/1FsedwjnDw-pdr2D-5ELBA4dObH8Kav6zp7GjIfp73mg/edit?usp=sharing)
 * Assignment:     
     - Connect your button to a circuit and write Arduino code that allows you to use your new button to control an LED.
 * Resources: 
