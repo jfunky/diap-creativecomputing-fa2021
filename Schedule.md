@@ -164,6 +164,7 @@
 * In Class: 
     - Analog Input and Sensing 
     - PWM Analog Output
+    - [Class Slides](https://docs.google.com/presentation/d/1yJiMNxdWOhKwKmqyuFo6_iPOrEhauAa9WFfY1M-cH7c/edit?usp=sharing)
 * Assignment: 
     - Pick a sensor and learn about how it works. What technical information, data sheets, & vendors exist for it?
     - Using at least one sensor from your kit or another sensor you've found, create a circuit and write Arduino code that uses the sensor values to control an LED.
