@@ -166,13 +166,16 @@
     - PWM Analog Output
 * Assignment: 
     - Pick a sensor and learn about how it works. What technical information, data sheets, & vendors exist for it?
-    - Using that or a more easily accessible sensor, create a circuit and write Arduino code that write the sensor values to the Serial monitor.
+    - Using at least one sensor from your kit or another sensor you've found, create a circuit and write Arduino code that uses the sensor values to control an LED.
 * Resources:
-    - [ITP Lab: Analog In](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
-    - [ITP Lab: Tone Output](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/tone-output-using-an-arduino/)
-    - [ITP Lab: Sensors](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+    - ITP tutorial:
+        -[Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+        -[Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
+    - ITP Lab 
+        -[Analog In](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+        -[Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
     - [Arduino Reference Page](https://www.arduino.cc/reference/en/)
-    - [Arduino Variables](https://www.arduino.cc/en/Reference/VariableDeclaration)
+ 
 
 #### Week 9: November 3
 * In Class: Digital/Analog input to P5.js
