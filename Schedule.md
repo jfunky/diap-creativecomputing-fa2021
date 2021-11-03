@@ -168,18 +168,17 @@
     - Analog Input and Sensing 
     - PWM Analog Output
     - [Class Slides](https://docs.google.com/presentation/d/1yJiMNxdWOhKwKmqyuFo6_iPOrEhauAa9WFfY1M-cH7c/edit?usp=sharing)
-    - 
 * Assignment: 
     - Pick a sensor and learn about how it works. What technical information, data sheets, & vendors exist for it?
     - Using at least one sensor from your kit or another sensor you've found, create a circuit and write Arduino code that uses the sensor values to control an LED.
     - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources:
     - ITP tutorial:
-        -[Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
-        -[Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
+        - [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+        - [Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
     - ITP Lab 
-        -[Analog In](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
-        -[Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
+        - [Analog In](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+        - [Sensor Change Detection](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/)
     - [Arduino Reference Page](https://www.arduino.cc/reference/en/)
  
 
