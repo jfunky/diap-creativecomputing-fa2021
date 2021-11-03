@@ -88,6 +88,7 @@
 * Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Develop a function and use a loop to render it multiple times.
     - (2) Load a media element and incorporate some kind of interactivity (mouse, keyboard, camera, microphone).
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - Getting Started With p5.js, ch.9, 11
     - The Coding Train 
@@ -106,6 +107,7 @@
 * Assignment: Choose one & add a link to the [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework):
     - (1) Refactor a previous assignment in an object-oriented way.
     - (2) Change/Update/Add parameters and methods to the example we did in class.
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - Getting Started with p5.js, ch.6,8 (note that chapter 10 is outdated)
     - The Coding Train 
@@ -148,16 +150,17 @@
     - [Class Notes](https://docs.google.com/presentation/d/1FsedwjnDw-pdr2D-5ELBA4dObH8Kav6zp7GjIfp73mg/edit?usp=sharing)
 * Assignment:     
     - Connect your button to a circuit and write Arduino code that allows you to use your new button to control an LED.
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - ITP Tutorials:
-        - [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
-        - [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
-        - [Programming terms and programming environments](https://itp.nyu.edu/physcomp/lessons/programming/programming-terms-and-programming-environments/)
-        - [Interpretting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
+        -  [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
+        -  [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
+        -  [Programming terms and programming environments](https://itp.nyu.edu/physcomp/lessons/programming/programming-terms-and-programming-environments/)
+        -  [Interpretting Serial Data](https://itp.nyu.edu/physcomp/lessons/interpreting-serial-data/)
     - ITP Videos:
-        - [VIDEO: Digital Input](https://vimeo.com/86548673)
-        - [VIDEO: Digital Output](https://vimeo.com/86534049)
-        - [VIDEO: Schematics](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
+        -  [VIDEO: Digital Input](https://vimeo.com/86548673)
+        -  [VIDEO: Digital Output](https://vimeo.com/86534049)
+        -  [VIDEO: Schematics](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
     - [Arduino Variables Reference](https://www.arduino.cc/en/Reference/VariableDeclaration)
 
 #### Week 8: October 27
@@ -165,9 +168,11 @@
     - Analog Input and Sensing 
     - PWM Analog Output
     - [Class Slides](https://docs.google.com/presentation/d/1yJiMNxdWOhKwKmqyuFo6_iPOrEhauAa9WFfY1M-cH7c/edit?usp=sharing)
+    - 
 * Assignment: 
     - Pick a sensor and learn about how it works. What technical information, data sheets, & vendors exist for it?
     - Using at least one sensor from your kit or another sensor you've found, create a circuit and write Arduino code that uses the sensor values to control an LED.
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources:
     - ITP tutorial:
         -[Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
@@ -179,30 +184,30 @@
  
 
 #### Week 9: November 3
+* In Class: Higher-powered loads
+    - Relays & Transistors
+    - Motors
+    - [Class slides](https://docs.google.com/presentation/d/19Nx8CknmE0kxXG41_u-MZCwEeFzS46vrn96NOztK15g/edit?usp=sharing)
+* Assignment: 
+     - Use an analog or digital sensor to make a motor move.
+     - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
+* Resources: 
+    - ITP Tutorials:
+        -  [DC Motors: The Basics](https://itp.nyu.edu/physcomp/lessons/dc-motors-the-basics/)
+        -  [Transistors, relays & controlling high current loads](https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/)
+        -  [Controlling Stepper Motors](https://itp.nyu.edu/physcomp/lessons/stepper-motors/)
+        -  [VIDEO: Transistors, Relays, & Motors](https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/)
+    - [Sparkfun soldering tutorial](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
+
+
+#### Week 10: November 10
 * In Class: Digital/Analog input to P5.js
 * Assignment:
     - Connect a digital or analog input to a p5.js sketch, to change something on the screen.
+    - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
 * Resources: 
     - [Serial port library](https://github.com/p5-serial/p5.serialport)
     - [ITP Lab: Serial Input to P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
-
-#### Week 10: November 10
-* In Class: High-powered loads
-    - Transistors
-    - Motors
-* Assignment: Choose one exercise:
-     - Use a p5 sketch to control some actuator.
-     - Use an analog or digital sensor to make a motor move.
-* Resources: 
-    - [ITP Lab: Servo motor control](https://itp.nyu.edu/physcomp/Labs/Servo)
-    - [ITP Tutorial: Understanding DC Power Supplies](https://itp.nyu.edu/physcomp/lessons/electronics/understanding-dc-power-supplies/)
-    - [ITP Tutorial: High Current loads w/ transistor](https://itp.nyu.edu/physcomp/Tutorials/HighCurrentLoads)
-    - [ITP Videos: Transistors and Motors](https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/)
-    - [ITP Lab: DC Motor w/ H-bridge](https://itp.nyu.edu/physcomp/Labs/DCMotorControl)
-    - [ITP Lab: Stepper Motor w/ H-Bridge](https://itp.nyu.edu/physcomp/Labs/StepperMotorControl)
-    - [EZ Driver for Steppers](https://jfunky.github.io/pcompdiap2019/labs.html)
-    - [ITP Lab: Serial Output from P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/)
-    - [ITP Lab: Two-Way (Duplex) Serial Communication Using An Arduino and P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/)
 
 #### Week 11: November 17
 * In Class: 
@@ -210,7 +215,9 @@
     - Javascript libraries for creative coding
     - Physical computing software overview
     - Workshop
-* Assignment: Brainstorming/Develop multi-week self-defined project
+* Assignment: 
+    - Brainstorm/develop individual project idea
+    - Come to class/individual meetings ready to discuss research, references, a plan forward, and questions
 * Resources: 
     - [The Coding Train HTML/CSS/DOM tutorial](https://thecodingtrain.com/Tutorials/8-html-css-dom/)
     - [Beyond the Canvas github tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
@@ -223,7 +230,7 @@
 * In Class: 
     - Intro to WEBGL & 3D tools
     - Workshop
-* Assignment: Project
+* Assignment: Work on Project
 * Resources: 
     - [Getting Started with WebGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
     - The Coding Train [Introduction to WEBGL in p5.js](https://thecodingtrain.com/Tutorials/18-webgl/index.html)
@@ -242,8 +249,7 @@
     - Machine learning
     - Pixels
     - Workshop
-* Assignment: Project
-* Assignment: Project
+* Assignment: Work on Project: come to class ready to show progress and discuss
 * Resources:
     - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
     - See also: Learning Processing ch. 15 (covers image processing)
