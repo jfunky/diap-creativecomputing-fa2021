@@ -201,6 +201,8 @@
 
 #### Week 10: November 10
 * In Class: Digital/Analog input to P5.js
+    - [Class slides](https://docs.google.com/presentation/d/14TCFgteUUX2fEzpp4z5mQGbo43n4OIsvTNJ0xyRuKi8/edit?usp=sharing)
+    - [p5 examples](https://editor.p5js.org/jfunky/collections/6lxWMBEIy)
 * Assignment:
     - Connect a digital or analog input to a p5.js sketch, to change something on the screen.
     - Add link to [homework wiki](https://github.com/jfunky/diap-creativecomputing-fa2021/wiki/Homework).
