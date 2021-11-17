@@ -216,12 +216,16 @@
     - Javascript libraries for creative coding
     - Physical computing software overview
     - Workshop
+    - [p5 DOM examples](https://editor.p5js.org/jfunky/collections/SIjWi8j9F)
+    - [p5 & Javascript libraries - slides](https://docs.google.com/presentation/d/1bZ-zeyokAw0NHL6P8B-prGLosqHuvxHk40zk8Ca2zRQ/edit?usp=sharing)
 * Assignment: 
     - Brainstorm/develop individual project idea
     - Come to class/individual meetings ready to discuss research, references, a plan forward, and questions
 * Resources: 
+    - Getting Started with p5.js, ch. 13
     - [The Coding Train HTML/CSS/DOM tutorial](https://thecodingtrain.com/Tutorials/8-html-css-dom/)
     - [Beyond the Canvas github tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+    - [Positiioning your canvas](https://github.com/processing/p5.js/wiki/Positioning-your-canvas)
     - [Global & instance mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode)
 
 #### Week 12: November 24
