@@ -235,11 +235,14 @@
 * In Class: 
     - Intro to WEBGL & 3D tools
     - Workshop
+    - [In-class examples](https://editor.p5js.org/jfunky/collections/APdQgs70j)
 * Assignment: Work on Project
 * Resources: 
     - [Getting Started with WebGL in P5](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
     - The Coding Train [Introduction to WEBGL in p5.js](https://thecodingtrain.com/Tutorials/18-webgl/index.html)
+    - Mozilla's [Getting Started with WEBGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
     - Other web tools:
+        - [p5xr library](https://p5xr.org/#/)
         - [Three.js](https://threejs.org/) Javascript library for 3D
         - [aframe](https://aframe.io/) Javascript framework for 3D/AR/VR
     - Other 3D tools:
