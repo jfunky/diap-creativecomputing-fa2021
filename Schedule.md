@@ -257,6 +257,7 @@
     - Machine learning
     - Pixels
     - Workshop
+    - [In-class examples](https://editor.p5js.org/jfunky/collections/ROPHmU6HI)
 * Assignment: Work on Project: come to class ready to show progress and discuss
 * Resources:
     - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
