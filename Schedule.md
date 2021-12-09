@@ -262,7 +262,8 @@
 * Resources:
     - The Coding Train [Pixel array tutorials 11.3-11.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
     - See also: Learning Processing ch. 15 (covers image processing)
-    - [A Beginner’s Guide to Machine Learning with ml5.js](https://ml5js.org/community/2019-12-10-youtube-learning-playlist/)
+    - [ml5.js](https://learn.ml5js.org/#/)
+    - [A Beginner’s Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&ab_channel=TheCodingTrain)
     - [AI Rainbows and Runway and P5.js](https://www.youtube.com/watch?v=vEetoBuHj8g)
 
 #### Week 15: December 15
